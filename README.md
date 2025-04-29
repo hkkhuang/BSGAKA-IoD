@@ -1,2 +1,1 @@
 # BSGAKA-IoD
-BSGAKA-IoD
